@@ -1,0 +1,15 @@
+/Users/matthew/RiderProjects/PSW/Lab_1/Task_3/bin/Debug/net6.0/Task_3
+/Users/matthew/RiderProjects/PSW/Lab_1/Task_3/bin/Debug/net6.0/Task_3.deps.json
+/Users/matthew/RiderProjects/PSW/Lab_1/Task_3/bin/Debug/net6.0/Task_3.runtimeconfig.json
+/Users/matthew/RiderProjects/PSW/Lab_1/Task_3/bin/Debug/net6.0/Task_3.dll
+/Users/matthew/RiderProjects/PSW/Lab_1/Task_3/bin/Debug/net6.0/Task_3.pdb
+/Users/matthew/RiderProjects/PSW/Lab_1/Task_3/obj/Debug/net6.0/Task_3.csproj.AssemblyReference.cache
+/Users/matthew/RiderProjects/PSW/Lab_1/Task_3/obj/Debug/net6.0/Task_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthew/RiderProjects/PSW/Lab_1/Task_3/obj/Debug/net6.0/Task_3.AssemblyInfoInputs.cache
+/Users/matthew/RiderProjects/PSW/Lab_1/Task_3/obj/Debug/net6.0/Task_3.AssemblyInfo.cs
+/Users/matthew/RiderProjects/PSW/Lab_1/Task_3/obj/Debug/net6.0/Task_3.csproj.CoreCompileInputs.cache
+/Users/matthew/RiderProjects/PSW/Lab_1/Task_3/obj/Debug/net6.0/Task_3.dll
+/Users/matthew/RiderProjects/PSW/Lab_1/Task_3/obj/Debug/net6.0/refint/Task_3.dll
+/Users/matthew/RiderProjects/PSW/Lab_1/Task_3/obj/Debug/net6.0/Task_3.pdb
+/Users/matthew/RiderProjects/PSW/Lab_1/Task_3/obj/Debug/net6.0/Task_3.genruntimeconfig.cache
+/Users/matthew/RiderProjects/PSW/Lab_1/Task_3/obj/Debug/net6.0/ref/Task_3.dll
