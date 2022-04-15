@@ -10,7 +10,7 @@
  *   if 0: "hasZero"
  
  *  "hasZero"
- *      if 1: "hasOne", numberOfBinaryWholes++
+ *      if 1: "hasOne", numberOfBinaryHoles++
  *      if 0: "hasZero"
  */
 
